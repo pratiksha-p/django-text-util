@@ -1,4 +1,3 @@
-# I have created this file - Harry video #17
 from django.http import HttpResponse
 from django.shortcuts import render
 
